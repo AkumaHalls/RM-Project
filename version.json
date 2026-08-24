@@ -1,5 +1,1 @@
-{
-    "url_exe":  "https://github.com/AkumaHalls/RM-Project/releases/latest/download/RenomearNotas.exe",
-    "notas":  "Interface grafica completa com splash animado, atualizacao automatica e relatorio detalhado de arquivos pulados.",
-    "versao":  "3.0.0"
-}
+{"url_exe":"https://github.com/AkumaHalls/RM-Project/releases/latest/download/RenomearNotas.exe","data":"2026-08-24","notas":"Correcoes: botao Atualizar agora visivel na faixa amarela, download via TLS 1.2, substituicao com retentativas e interface adaptavel ao maximizar.","versao":"3.0.1"}
